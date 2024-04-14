@@ -26,9 +26,4 @@ Bu proje, HTML ve CSS kullanarak responsive tasarıma sahip bir web sitesi oluş
 örnek:2
 
 ![Örnek Resim 2](images/gif-2.gif)
-# Araba-Sitesi
-# Araba-Sitesi
-# Araba-Sitesi
-# Araba-Sitesi
-# Araba-Sitesi
-# Araba-kiralama
+
